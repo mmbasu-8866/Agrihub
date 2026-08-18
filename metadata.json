@@ -1,0 +1,6 @@
+{
+  "name": "AgriDirect - Smart Farmer Marketplace & Agri Hub",
+  "description": "Real-time crop prices & mandi data, wholesale farming inputs marketplace, direct farmer-to-buyer trade, AI crop disease detection, weather monitoring, and peer knowledge forum.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
